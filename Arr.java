@@ -5,10 +5,10 @@ class ArrayListExample{
 	 
   ArrayList<String> listN=new ArrayList<String>(); 
   
-  listN.add("Yehen");  
+  listN.add("John");  
   listN.add("Charith");  
-  listN.add("Vimukthi");  
-  listN.add("Rayan");  
+  listN.add("nans");  
+  listN.add("Kurey");  
   
   Iterator tr=listN.iterator(); 
   
